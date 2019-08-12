@@ -7,9 +7,9 @@
 
 
 
-### #codingmart interview puzzle
-### #savenesamani puzzle solution
-### #savenesamani puzzle
+### #codingmartinterviewpuzzle
+### #savenesamanipuzzlesolution
+### #savenesamanipuzzle
 ### #savenesamani
 ### #nesamani
-### #pray for nesamani
+### #prayfornesamani
